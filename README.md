@@ -1,2 +1,2 @@
 # PythonPractice
-A demo project
+A progect demonstration on github
