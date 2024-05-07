@@ -95,3 +95,5 @@ def generate_maze():
         elif array:
             current_cell = array.pop()
     return grid_cells
+
+generate_maze()
