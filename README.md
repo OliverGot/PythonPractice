@@ -1,2 +1,4 @@
 # PythonPractice
-A progect demonstration on github
+A project demonstration on github
+[x] Complete README.md
+[x] Add python file
