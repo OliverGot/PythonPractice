@@ -1,4 +1,5 @@
 import pygame
+<<<<<<< HEAD
 from random import choice, randrange
 
 RES = WIDTH, HEIGHT = 1202, 902
@@ -97,3 +98,17 @@ def generate_maze():
     return grid_cells
 
 generate_maze()
+=======
+from random import choice
+
+RES = WIDTH, HEIGHT = 1202 902
+TILE = 100
+cols, rows = WIDTH // TILE, HEIGHT // TILE
+
+pygame.init()
+sc = pygame.display.set_mode(RES)
+clock = pygame.time.Clock()
+
+while True:
+    sc.fill()
+>>>>>>> 9f35bc3a729a79be890feadac08d11350b3ce794
